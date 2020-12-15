@@ -6,7 +6,9 @@ This tool can be used to perform information theoretic analysis of available com
 # Pre-requisite
 
 Perl
+
 BioPerl
+
 EMBOSS
 
 # Execution
